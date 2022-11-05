@@ -9,5 +9,6 @@ public class PizzaMaker {
         System.out.println("**********************");
         System.out.println("Ingredients : "+pizza.getDescription());
         System.out.println("Total cost : "+pizza.getCost());
+        System.out.println("**********************");
     }
 }
